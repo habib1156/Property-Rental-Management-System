@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding:0;
+}
+.headertext{
+  margin: 10px;
+  padding:10px;
+  background-color: black;
+  color:white;
+  text-align: center;
+}
+.sidebar{
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  
+}
+
+.sidebar a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  padding: 5px;
+}
+.sidebar a:hover {
+  background-color: #555;
+}
+.form{
+  line-height:2 ;
+  
+  
+}
+.buttonOnet{
+  background-color: #555;
+  color:white;
+}

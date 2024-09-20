@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.row{
+    margin: 30px;
+    padding:10px;
+    line-height: 3;
+    font-size: 22px;
+
+}
+
+.sameline{
+  
+    display: flex;
+    
+    
+}
+.col-md-6{
+    margin:1px;
+    padding-right:10px;
+}
+.massage{
+    box-sizing: 100px;
+}
+.button{
+   background-color: rgba(147, 224, 45, 0.514);
+   color:black;
+   border:1px solid transparent;
+   border-radius: 7px;
+   height:70px;
+   width: 145px;
+   margin-left:300px;
+
+}

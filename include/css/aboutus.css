@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+.core{
+    padding:30px;
+}
+.textto{
+    margin-top:20px;
+    font-size: 35px;
+    text-align: center;
+    color:greenyellow;
+    
+}
+.textthre{
+    margin-top: -50px;
+    margin-bottom: 40px;
+    font-size: 35px;
+    text-align: center;
+    color:greenyellow;
+
+}
+.peraone{
+    margin-top:78px;
+    padding:20px;
+}
+.peratwo{
+    margin-top:78px;
+    padding:20px;
+}
+.perathree{
+    margin-top:78px;
+    padding:20px;
+}

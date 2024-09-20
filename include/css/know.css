@@ -1,0 +1,57 @@
+*{
+    margin:auto;
+    padding:0%;
+    
+
+}
+.image{
+    margin:50px;
+    margin-left:270px;
+}
+.button{
+margin:30px;
+padding:10px;
+height: 50px;
+align-items: center;
+background-color: rgba(231, 122, 59, 0.445);
+color: black;
+}
+
+.first{
+    margin:10px;
+    padding:10px;
+    text-align: center;
+   
+}
+.textline{
+    align-items: left;
+    margin:40px;
+    padding:40px;
+    text-align: justify;
+    line-height: 3;
+    
+
+}
+.accordion-item{
+    margin:10px;
+    padding:10px;
+    font-size:15px;
+    text-align: center;
+    display: inline;
+}
+.buttonOne{
+    padding:5px;
+    background-color: greenyellow;
+    color:white;
+    border-color:blue;
+    border-radius: 4px;
+    
+}
+.textli{
+    margin-top:10px;
+    margin-left: 30px;
+    text-align: justify;
+}
+.fa-regular fa-building{
+    line-height: 1.4;
+}
